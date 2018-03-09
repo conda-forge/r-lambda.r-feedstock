@@ -1,4 +1,4 @@
-{% set version = '1.1.9' %}
+{% set version = "1.2" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/lambda.r_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/lambda.r/lambda.r_{{ version }}.tar.gz
-  sha256: 24c8c46802395463045a11086701051727808ad3d3bc920da571e88de341c2c8
+  sha256: 7dc4188ce1d4a6b026a1b128719ff60234ae1e3ffa583941bbcd8473ad18146f
 
 build:
   number: 0
