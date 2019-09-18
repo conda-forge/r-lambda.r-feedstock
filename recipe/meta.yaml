@@ -43,13 +43,8 @@ about:
     include multi-part function definitions, pattern matching, guard statements, built-in
     (optional) type safety.
   license_family: LGPL
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/LGPL-3'
 
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - johanneskoester
-    - bgruening
-    - daler
-    - jdblischak
-    - cbrueffer
-    - dbast
