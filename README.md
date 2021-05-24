@@ -3,7 +3,7 @@ About r-lambda.r
 
 Home: https://CRAN.R-project.org/package=lambda.r
 
-Package license: LGPL-3
+Package license: LGPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lambda.r-feedstock/blob/master/LICENSE.txt)
 
