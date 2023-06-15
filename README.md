@@ -1,11 +1,11 @@
-About r-lambda.r
-================
+About r-lambda.r-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lambda.r-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=lambda.r
 
 Package license: LGPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lambda.r-feedstock/blob/main/LICENSE.txt)
 
 Summary: A language extension to efficiently write functional programs in R. Syntax extensions include multi-part function definitions, pattern matching, guard statements, built-in (optional) type safety.
 
